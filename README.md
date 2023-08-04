@@ -13,4 +13,4 @@ Proposta de jogo relacionado as música:
 
 
 wiki:
-https://github.com/SophiadeA/proj-balao-sol-e-lua.wiki.git
+https://github.com/SophiadeA/proj-balao-sol-e-lua/wiki
