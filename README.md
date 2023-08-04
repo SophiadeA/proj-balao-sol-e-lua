@@ -15,3 +15,6 @@ Proposta de jogo relacionado as música:
 •	Superfantastico -turma do balão mágico.
 
 Será demonstrado no jogo como o jogador que será o expectador da história no qual tem que desviar dos obstáculos mostrando-se apenas como o espectador do jogo.
+
+wiki:
+https://github.com/SophiadeA/proj-balao-sol-e-lua.wiki.git
