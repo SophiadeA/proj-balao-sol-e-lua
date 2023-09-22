@@ -4,6 +4,10 @@ Dupla: Sophia de Andrade Machado
 
              Lyuwan Galdino da Silva
 
+
+ # todas as explicações estão na wiki na aba lp e mobile
+
+
 Proposta de jogo relacionado as música:
 
 •	o sol e a Lua- Pequeno Cidadão:
