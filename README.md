@@ -5,7 +5,7 @@ Dupla: Sophia de Andrade Machado
              Lyuwan Galdino da Silva
 
 
- # todas as explicações estão na wiki na aba lp e mobile
+ # todas as explicações das aplicações estão na wiki na aba lp e mobile
 
 
 Proposta de jogo relacionado as música:
